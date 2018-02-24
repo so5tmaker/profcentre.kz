@@ -1,0 +1,17 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# admin
+admin/tiny_mce/
+
+# dependencies
+mail/config.php
+
+# IDEs and editors
+nbproject/
+
+# misc
+cache/
+
+# System Files
+.DS_Store
+Thumbs.db
