@@ -4,8 +4,8 @@ $__smtp = array(
 	"debug" => 2,
 	"auth" => true,
 	"port" => 25,
-	"username" => "profcentre.alm",
-	"password" => "infoForsite",
+	"username" => "**************",
+	"password" => "**************",
 	"addreply" => "profcentre.alm@yandex.kz",
 	"replyto" => "profcentre.alm@yandex.kz"
 );
